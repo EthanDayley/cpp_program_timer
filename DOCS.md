@@ -26,4 +26,3 @@ program_timer is a class which makes timing your c++ programs easy.
 ## get_time():
 		returns a double float value containing the number of seconds between
 		program_timer.start() and program_timer.stop().
-# DELETE THIS LINE
