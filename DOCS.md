@@ -17,11 +17,11 @@
 
 # FUNCTIONS:
 ## void start():
-	- starts the timer.
-	- nuff said.
+	1 starts the timer.
+	2 nuff said.
 ## void stop():
-	- stops the timer.
-	- see line 2 of start() function docs.
+	1 stops the timer.
+	2 see line 2 of start() function docs.
 ## get_time():
-	- returns a double float value containing the number of seconds between
-	- program_timer.start() and program_timer.stop().
+	1 returns a double float value containing the number of seconds between
+	2 program_timer.start() and program_timer.stop().
