@@ -11,4 +11,4 @@
 	}
 ```
 
-## For more extended documentation see [Github] (https://github.com/EthanDayley/cpp_program_timer/blob/master/DOCS.md)
+## For more extended documentation see https://github.com/EthanDayley/cpp_program_timer/blob/master/DOCS.md
