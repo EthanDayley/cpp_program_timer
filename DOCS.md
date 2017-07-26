@@ -1,5 +1,4 @@
 # CPP_PROGRAM_TIMER DOCUMENTATION
-## program_timer is a class which makes timing your c++ programs easy.
 
 # BASIC USAGE:
 ```c++
