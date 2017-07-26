@@ -1,6 +1,6 @@
 # CPP_PROGRAM_TIMER DOCUMENTATION
 
-# BASIC USAGE:
+## BASIC USAGE:
 ```c++
 	#include "cpp_program_timer.hpp"
 	#include <iostream> //For cout, not necessary for program_timer function.
@@ -14,13 +14,13 @@
 	}
 ```
 
-# FUNCTIONS:
-## void start():
+## FUNCTIONS:
+### void start():
 	1. starts the timer.
 	2. nuff said.
-## void stop():
+### void stop():
 	1. stops the timer.
 	2. see line 2. of start() function docs.
-## get_time():
+### get_time():
 	1. returns a double float value containing the number of seconds between
 	2. program_timer.start() and program_timer.stop().
