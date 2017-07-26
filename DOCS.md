@@ -3,6 +3,7 @@
 program_timer is a class which makes timing your c++ programs easy.
 
 # BASIC USAGE:
+'''c++
 	#include "cpp_program_timer.hpp"
 	#include <iostream> //For cout, not necessary for program_timer function.
 	
@@ -13,6 +14,7 @@ program_timer is a class which makes timing your c++ programs easy.
 		timer.stop();
 		std::cout << "Time elapsed: " << timer.get_time() << endl;
 	}
+'''
 
 # FUNCTIONS:
 ## void start():
@@ -24,3 +26,4 @@ program_timer is a class which makes timing your c++ programs easy.
 ## get_time():
 		returns a double float value containing the number of seconds between
 		program_timer.start() and program_timer.stop().
+# DELETE THIS LINE
