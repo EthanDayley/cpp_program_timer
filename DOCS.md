@@ -3,8 +3,8 @@
 program_timer is a class which makes timing your c++ programs easy.
 
 # BASIC USAGE:
-	\#include "cpp_program_timer.hpp"
-	\#include <iostream> //For cout, not necessary for program_timer function.
+	#include "cpp_program_timer.hpp"
+	#include <iostream> //For cout, not necessary for program_timer function.
 	
 	int main() {
 		program_timer timer;
